@@ -1,0 +1,27 @@
+
+body{
+    background: url(img/estrelle.jpg);
+    font-family: cursive; 
+    color:royalblue;
+    font-size: 18px;
+}
+
+button{
+    background-color: aqua;
+    margin: 25px;
+}
+button:hover{
+    background-color: antiquewhite;
+    padding: 20px;
+    border: 3px solid yellow;
+    font-size: 25px;
+    color: fuchsia;
+}
+
+
+ 
+
+#salida {
+    height: 30px;
+   
+}
