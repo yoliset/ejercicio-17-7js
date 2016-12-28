@@ -5,10 +5,11 @@ body{
     color:royalblue;
     font-size: 18px;
 }
-
 button{
-    background-color: aqua;
+    font-size: 22px;
+    background-color:rgba(218, 112, 214, 0.48);
     margin: 25px;
+    padding: 7px;
 }
 button:hover{
     background-color: antiquewhite;
@@ -17,10 +18,6 @@ button:hover{
     font-size: 25px;
     color: fuchsia;
 }
-
-
- 
-
 #salida {
     height: 30px;
    
